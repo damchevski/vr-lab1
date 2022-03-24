@@ -1,1 +1,1 @@
-# vr-lab1
+# vr-lab1 (domasna1)
